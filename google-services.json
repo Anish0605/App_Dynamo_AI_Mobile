@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1083537512306",
+    "project_id": "dynamo-ai-01",
+    "storage_bucket": "dynamo-ai-01.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083537512306:android:14546f9587c0ae1c99efeb",
+        "android_client_info": {
+          "package_name": "com.dynamoai.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083537512306-kpjjvp5s2o4pfpcftvb9f2i7fh1a3od3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF-J8FnhOgD6TDHD0BSQtxgysNtBzDu88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083537512306-kpjjvp5s2o4pfpcftvb9f2i7fh1a3od3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
