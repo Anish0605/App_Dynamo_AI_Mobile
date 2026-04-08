@@ -45,3 +45,7 @@ yarn-error.*
 server/
 scripts/
 libserver/
+
+# Firebase Android config (contains project-specific credentials)
+# Use google-services.json.example as a template
+google-services.json
